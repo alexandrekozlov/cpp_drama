@@ -1,0 +1,1 @@
+Demonstrates how basic C++ class can be implemented in C.

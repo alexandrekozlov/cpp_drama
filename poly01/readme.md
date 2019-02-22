@@ -1,0 +1,1 @@
+Demonstrates how C++ polymorphism and VTBL can be implemented in C.
